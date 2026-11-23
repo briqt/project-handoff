@@ -3,6 +3,4 @@
 
 __pycache__/
 *.py[cod]
-
-# 个人 Agent 指令不入库
 /AGENTS.md

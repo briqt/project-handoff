@@ -12,7 +12,9 @@ npx skills add briqt/project-handoff -g -y
 
 变更记录见 [CHANGELOG.md](CHANGELOG.md)。
 
-交流社区：[学 AI，上 Linux DO](https://linux.do/)
+## 社区
+
+[学 AI，上 Linux DO](https://linux.do/)
 
 ## License
 
